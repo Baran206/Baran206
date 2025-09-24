@@ -1,6 +1,6 @@
 <!-- Banner / Headline -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:06D6A0&height=180&section=header&text=Hi,%20I'm%20Baran%20Uysal!%20🚀&fontSize=38&fontAlignY=40&desc=Swiss-based%20Software%20Engineer%20with%20a%20Passion%20for%20Building%20the%20Future&descSize=20&descAlign=60" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:7B2CBF&height=180&section=header&text=Hi,%20I'm%20Baran%20Uysal!%20🚀&fontSize=38&fontAlignY=40&fontColor=ffffff&desc=Swiss-based%20Software%20Engineer%20with%20a%20Passion%20for%20Building%20the%20Future&descSize=20&descAlign=60" alt="banner"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 Hello! I'm <b>Baran Uysal</b>, a passionate and driven software engineer based in Switzerland 🇨🇭.  
-I'm currently a Software Engineer Intern at <a href="https://www.chilidigital.ch/">Chili Digital AG</a> (part of Siloy Switzerland AG), where I turn ideas into impactful digital products.
+I'm currently a Software Engineer Intern at <a href="https://www.chili.ch/">Chili</a> (part of Siloy Switzerland AG), where I turn ideas into impactful digital products.
 
 My journey blends a solid foundation in software engineering with business acumen.  
 I thrive at the crossroads of technology, entrepreneurship, and innovation—always eager to explore new fields, build solutions, and push boundaries.
@@ -22,7 +22,8 @@ I thrive at the crossroads of technology, entrepreneurship, and innovation—alw
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,aspdotnet,csharp,mysql,js,html,css,tailwind,nodejs,express,swift,cpp,python,docker,tf,rust" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,aspdotnet,csharp,mysql,js,html,css,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,swift,cpp,python,docker,rust,tensorflow" />
 </p>
 
 - **Frontend:** React, Next.js, Vite, HTML, CSS, Tailwind CSS  
@@ -37,7 +38,7 @@ I thrive at the crossroads of technology, entrepreneurship, and innovation—alw
 ## 💼 Experience
 
 **Software Engineer Intern**  
-🔹 <b>Chili Digital AG</b> (Siloy Switzerland AG)  
+🔹 <b>Chili</b> (Siloy Switzerland AG)  
 *2024 – Present*  
 
 - Developing modern web applications and B2B solutions  
@@ -65,14 +66,6 @@ _Aug 2022 – June 2025_
 - 🏋️‍♂️ Fitness enthusiast (gym & healthy lifestyle)  
 - 💡 I love building side projects & exploring new technologies  
 - 📚 Always learning: Philosophy, tech trends, and more!  
-
----
-
-## 📫 Contact & Connect
-
-- 📧 **baran.uysal@proton.me**  
-- <a href="https://www.linkedin.com/in/baranuysal/"><img src="https://img.shields.io/badge/LinkedIn-Baran%20Uysal-0077B5?style=flat-square&logo=linkedin" /></a>  
-- <a href="https://github.com/Baran206"><img src="https://img.shields.io/badge/GitHub-Baran206-181717?style=flat-square&logo=github" /></a>  
 
 ---
 
